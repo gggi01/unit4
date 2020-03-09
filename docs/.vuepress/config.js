@@ -1,5 +1,5 @@
 module.exports = {
-  title: "POSTr, Daddy's Simple Note",
+  title: "GGGI ERP Portal",
   description: "Meet the Right Resource Everywhere",
   markdown: {
     lineNumbers: true
@@ -98,22 +98,38 @@ module.exports = {
     prevLinks: true,
     nav: [
       { text: "Home", link: "/" },
-      { text: "CodeLearn", link: "/Code/" },
-      { text: "Requirements", link: "/Req/" },
-      { text: "ItemsToPlay", link: "/Items/" },
-      { text: "Blog", link: "/Blog/" },
+      // { text: "CodeLearn", link: "/Code/" },
+      // { text: "Requirements", link: "/Req/" },
+      // { text: "ItemsToPlay", link: "/Items/" },
+      // { text: "Blog", link: "/Blog/" },
       {
-        text: "📝Links",
+        text: "UNIT4 Portal",
         ariaLabel: "Links",
         items: [
           {
-            text: "Vuepress",
-            link: "https://v1.vuepress.vuejs.org/"
+            text: "Incident",
+            link: "https://community4u.unit4.com/services/incident"
           },
           {
-            text: "VueJS",
-            link: "https://vuejs.org/"
-          }
+            text: "Service Request",
+            link: "https://community4u.unit4.com/services/service-request"
+          },
+          {
+            text: "Service Request",
+            link: "https://community4u.unit4.com/services/service-request"
+          },
+          {
+            text: "Track Cases",
+            link: "https://community4u.unit4.com/services/track-cases"
+          },
+          {
+            text: "Maintenance Schedule",
+            link: "https://community4u.unit4.com/cloud/maintenance"
+          },
+          {
+            text: "Notifications",
+            link: "https://community4u.unit4.com/cloud/notifications"
+          },
         ]
       }
       // {
@@ -129,38 +145,40 @@ module.exports = {
       // { text: "HR InPress", link: "https://google.com", target: "_blank" }
     ],
 
-    // sidebar: 'auto',
+    sidebar: 'auto',
     sidebar: [  
       {
-        title: "Code Learn", // required
-        path: "/Code/", // optional, which should be a absolute path.
+        title: "Announcement Template", // required
+        path: "/Maintenance/", // optional, which should be a absolute path.
         collapsable: true, // optional, defaults to true
         sidebarDepth: 1, // optional, defaults to 1
         children: [
-          "/HTML-CSS/",
-          "/Vuejs/",
-          "/Vuepress/",
-          "/DataBase/",
-          "/Server/",
-          "/Git-Hub/",
-          "/Data Science/",
-          "/Mark Down/"
+          "/2020 March/",
+          "/2020 April/",
+          "/2020 May/",
+          "/2020 June/",
+          "/2020 July/",
+          "/2020 August/",
+          "/2020 September/",
+          "/2020 October/",
+          "/2020 November/",
+          "/2020 December/",
         ]
-      },
-      {
-        title: "Requirements", // required
-        path: "/req/", // optional, which should be a absolute path.
-        collapsable: true, // optional, defaults to true
-        sidebarDepth: 1, // optional, defaults to 1
-        // children: ["/StudyTogether/", "/Profittability/"]
-      },
-      {
-        title: "Items", // required
-        path: "/items/", // optional, which should be a absolute path.
-        collapsable: false, // optional, defaults to true
-        sidebarDepth: 1, // optional, defaults to 1
-        children: ["/StudyTogether/", "/Profittability/"]
-      },
+       },
+      // {
+      //   title: "Requirements", // required
+      //   path: "/req/", // optional, which should be a absolute path.
+      //   collapsable: true, // optional, defaults to true
+      //   sidebarDepth: 1, // optional, defaults to 1
+      //   // children: ["/StudyTogether/", "/Profittability/"]
+      // },
+      // {
+      //   title: "Items", // required
+      //   path: "/items/", // optional, which should be a absolute path.
+      //   collapsable: false, // optional, defaults to true
+      //   sidebarDepth: 1, // optional, defaults to 1
+      //   children: ["/StudyTogether/", "/Profittability/"]
+      // },
       
 
       // {
