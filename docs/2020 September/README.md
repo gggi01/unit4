@@ -3,124 +3,21 @@ sidebar: true
 ---
 # 2020 September
 
-   current route is : {{$route.path}}
-```
-     current route is : {{$route.path}}
-```
+*Sent on behalf of the Technology Services Unit (TSU)*
 
-*Italid* **bold** and `monospace`
-```
-*Italid* **bold** and `monospace`
-```
-::: tip
-This is a tip
+![image](./hero.png)
+
+::: tip System Maintenance : 3giConnect ERP
+
+*To ensure stability and security of our ERP system, our ERP Cloud Service Provider will be conducting planned system maintenance on Sunday, 26 January  (12hours).  Apologies for the short notice.*
+
+| From Date/Time  | To Date/Time  | What (Affected)   | Where |
+| -----------|:-----------------:| :--------------:    |:----:  |
+| Sunday, 22 March 2020 at 02:00 AM (Seoul Time) | Sunday, 22 March 2020 at 14:00 PM (Seoul Time) |3giConnect ERP may NOT be available (~12 hours)| All Locations|
+
+- Please note that Office 365 (Email, SharePoint, OneDrive), Service Request (SR) ticking system, and Internet access will **NOT be affected and continue** to function without disruption.  
+- **Whilst GGGI Online (GO) remains accessible, please refrain from updating the logframe to avoid issues on the project and output code integration into ERP.**   
 :::
 
-::: warning
-This is a warning
-:::
-
-::: danger
-This is a dangerous warning
-:::
-```
-::: tip
-This is a tip
-:::
-
-::: warning
-This is a warning
-:::
-
-::: danger
-This is a dangerous warning
-:::
-```
-::: details
-This is a details block, which does not work in IE / Edge
-:::
-
-```
-::: details
-This is a details block, which does not work in IE / Edge
-:::
-```
-
-::: details Click me to view the code
-
-```
-console.log('Hello, VuePress!')
-```
-:::
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-```
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-```
-
-
-```
-code block
-```
-
->great
->tool
-<br>
->it is
-
-```
->great
->tool
-<br>
->it is
-```
-
-Itemized lists looking like this
-* this is
-    * numbering
-    * test
-        * test
-        * test
-* style 
-
-```
-Itemized lists looking like this
-* this is
-    * numbering
-    * test
-        * test
-        * test
-* style 
-```
-table of contents
-[[toc]]
-```
-[[toc]]
-```
-
-Link
-[Home](/)
-```
-[Home](/) <!-- Sends the user to the root README.md -->
-[foo](/foo/) <!-- Sends the user to index.html of directory foo -->
-[foo heading](./#heading) <!-- Anchors user to a heading in the foo README file -->
-[bar - three](../bar/three.md) <!-- You can append .md (recommended) -->
-[bar - four](../bar/four.html) <!-- Or you can append .html -->
-```
-![An image](/logo.png) 
-```
-![An image](/logo.png) 
-```
-
- <Disqus />
-
-
-<vue-disqus/>
+Regards,
+TSU
