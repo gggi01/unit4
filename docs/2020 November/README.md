@@ -9,7 +9,7 @@ sidebar: true
 
 ::: tip System Maintenance : 3giConnect ERP
 
-*To ensure stability and security of our ERP system, our ERP Cloud Service Provider will be conducting planned system maintenance on Sunday, 22 Nobember  (12hours).  Apologies for the short notice.*
+*To ensure stability and security of our ERP system, our ERP Cloud Service Provider will be conducting planned system maintenance on Sunday, **22 Nobember  (12hours)**.  Apologies for the short notice.*
 
 | From Date/Time  | To Date/Time  | What (Affected)   | Where |
 | -----------|:-----------------:| :--------------:    |:----:  |
