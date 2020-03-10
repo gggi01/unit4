@@ -43,7 +43,7 @@ Unit4 Cloud operation will conduct the following maintenance activities:
 ## 2. 2020 Schedule
 
 ::: tip guide
-- Click **Mouths** column to see the relevant announcement template.
+- Click **Months** column to see the relevant announcement template.
 - Click **Start time(KR,GGGI HQ)** or **End time(KR,GGGI HQ)** column to see relevant [Time zone converter](https://www.timeanddate.com/) data.
 - Original source table from UNIT4 Portal is [Here](https://community4u.unit4.com/cloud/maintenance)
 :::

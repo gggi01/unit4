@@ -149,7 +149,7 @@ module.exports = {
     sidebar: [  
       {
         title: "Announcement Template", // required
-        path: "/Maintenance/", // optional, which should be a absolute path.
+        path: "/", // optional, which should be a absolute path.
         collapsable: true, // optional, defaults to true
         sidebarDepth: 1, // optional, defaults to 1
         children: [
