@@ -17,7 +17,7 @@ module.exports = {
     ],
     "vuepress-plugin-disqus-comment",
     {
-      shortname: "daddysnote", url: "https://note.postr.io"
+      shortname: "GGGI ERP Portal", url: "https://unit4.netlify.com"
     },
     ["@vuepress/nprogress"],
     // ["@vuepress/back-to-top"],
