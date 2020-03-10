@@ -6,7 +6,7 @@ sidebar: true
 
 ![image](./hero.png)
 
-::: tip System Maintenance: 
+::: tip System Maintenance : 3giConnect ERP
 
 *To ensure stability and security of our ERP system, our ERP Cloud Service Provider will be conducting planned system maintenance on Sunday, **26 July  (12hours)**.  Apologies for the short notice.*
 
